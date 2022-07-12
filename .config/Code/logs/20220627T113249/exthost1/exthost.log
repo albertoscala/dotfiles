@@ -1,0 +1,17 @@
+[2022-06-27 11:32:51.748] [exthost] [info] Extension host with pid 685 started
+[2022-06-27 11:32:51.748] [exthost] [info] Skipping acquiring lock for /home/albys/.config/Code/User/workspaceStorage/07790ddddeaca8f496346f45d1574ac1.
+[2022-06-27 11:32:51.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-27 11:32:51.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-27 11:32:51.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-27 11:32:51.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-27 11:32:51.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-27 11:32:51.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-27 11:32:51.993] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-06-27 11:32:52.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-27 11:32:52.285] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'api', root cause: ms-vscode.makefile-tools
+[2022-06-27 11:32:53.156] [exthost] [info] Eager extensions activated
+[2022-06-27 11:32:53.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 11:32:53.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 11:33:15.229] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2022-06-27 12:34:54.006] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-27 12:34:55.750] [exthost] [info] Extension host with pid 685 exiting with code 0

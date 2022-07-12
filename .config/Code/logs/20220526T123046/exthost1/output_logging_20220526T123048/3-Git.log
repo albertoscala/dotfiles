@@ -1,0 +1,21 @@
+[2022-05-26T10:30:49.115Z] Validating found git in: git
+[2022-05-26T10:30:49.193Z] Using git 2.36.1 from git
+[2022-05-26T10:30:49.280Z] > git rev-parse --show-toplevel [79ms]
+[2022-05-26T10:30:49.297Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-05-26T10:30:49.304Z] Open repository: /home/albys/Sistemi Operativi 2/Homework-Sistemi-Operativi-2
+[2022-05-26T10:30:49.346Z] > git status -z -uall [34ms]
+[2022-05-26T10:30:49.365Z] > git rev-parse --show-toplevel [47ms]
+[2022-05-26T10:30:49.365Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-26T10:30:49.387Z] > git symbolic-ref --short HEAD [35ms]
+[2022-05-26T10:30:49.434Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+[2022-05-26T10:30:49.451Z] > git remote --verbose [6ms]
+[2022-05-26T10:30:49.451Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-05-26T10:30:49.469Z] > git config --get commit.template [8ms]
+[2022-05-26T10:30:49.868Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-26T10:30:57.668Z] > git status -z -uall [3ms]
+[2022-05-26T10:30:57.677Z] > git symbolic-ref --short HEAD [2ms]
+[2022-05-26T10:30:57.685Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-05-26T10:30:57.703Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-05-26T10:30:57.703Z] > git remote --verbose [6ms]
+[2022-05-26T10:30:57.712Z] > git config --get commit.template [2ms]

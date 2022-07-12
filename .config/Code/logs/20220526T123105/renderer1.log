@@ -1,0 +1,12 @@
+[2022-05-26 12:31:07.206] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-26 12:31:08.455] [renderer1] [error] [Extension Host] (node:2342) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-26 12:31:21.188] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-26 12:31:22.486] [renderer1] [error] [Extension Host] (node:2595) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-26 12:31:44.279] [renderer1] [info] Setting search error: Unexpected end of JSON input
+[2022-05-26 12:31:44.311] [renderer1] [info] Setting search error: Unexpected end of JSON input
+[2022-05-26 12:32:09.173] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-26 12:32:10.503] [renderer1] [error] [Extension Host] (node:2718) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-26 12:41:10.450] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code undefined, signal: SIGTRAP

@@ -1,0 +1,46 @@
+[2022-06-19 23:07:53.536] [sharedprocess] [info] Starting worker process with pid 746 (type: fileWatcher, window: 1).
+[2022-06-19 23:07:53.795] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/albys/.vscode/extensions/ms-python.vscode-pylance-2022.5.2
+[2022-06-19 23:07:56.326] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-19 23:07:56.328] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-19 23:07:56.330] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-19 23:07:56.331] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-06-19 23:07:56.334] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-06-19 23:07:56.335] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-19 23:07:57.009] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-06-19 23:07:57.013] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-06-19 23:07:57.015] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-19 23:07:57.018] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-06-19 23:07:57.027] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-19 23:07:57.029] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-19 23:07:59.804] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/albys/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.11.26
+[2022-06-19 23:07:59.987] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.32b942b1-dd37-43cb-986f-3598b7a0a078: ms-vscode.cmake-tools
+[2022-06-19 23:07:59.995] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-vscode.cmake-tools-1.11.26
+[2022-06-19 23:07:59.999] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-06-19 23:08:00.005] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-06-19 23:08:00.581] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/albys/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-19 23:08:00.751] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/albys/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-19 23:08:00.771] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.d9ecff26-fbd2-4be5-9907-ffeb6bc7d3bc: jeff-hykin.better-cpp-syntax
+[2022-06-19 23:08:00.775] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-19 23:08:00.777] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-19 23:08:00.780] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-19 23:08:00.795] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.3b4adb0c-28b0-4518-9c17-547ecefa3ac8: ms-toolsai.jupyter-renderers
+[2022-06-19 23:08:00.798] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-19 23:08:00.799] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-06-19 23:08:00.803] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-06-19 23:08:01.511] [sharedprocess] [info] Downloaded extension: ms-python.python /home/albys/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-19 23:08:03.084] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.8a785398-5001-4f82-a9bb-8efb654a7347: ms-python.python
+[2022-06-19 23:08:03.095] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-python.python-2022.8.0
+[2022-06-19 23:08:03.098] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-19 23:08:03.105] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-06-19 23:08:03.562] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/albys/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.20
+[2022-06-19 23:08:06.658] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.10f4e4ac-3c1f-49db-899c-f316fc993a57: ms-python.vscode-pylance
+[2022-06-19 23:08:06.667] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-python.vscode-pylance-2022.6.20
+[2022-06-19 23:08:06.669] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-19 23:08:06.674] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-19 23:08:07.461] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/albys/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-19 23:08:10.448] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.f36dca5b-5f8e-430a-b62a-1ef892790877: ms-vscode.cpptools
+[2022-06-19 23:08:10.457] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-19 23:08:10.471] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-06-19 23:08:10.488] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-06-19 23:08:47.344] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 746 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-06-19 23:08:47.406] [sharedprocess] [info] Starting worker process with pid 1324 (type: fileWatcher, window: 1).

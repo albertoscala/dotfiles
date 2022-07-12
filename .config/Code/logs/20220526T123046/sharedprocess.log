@@ -1,0 +1,5 @@
+[2022-05-26 12:30:49.001] [sharedprocess] [info] Starting worker process with pid 2015 (type: fileWatcher, window: 1).
+[2022-05-26 12:30:49.081] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/albys/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-05-26 12:30:51.907] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-26 12:30:52.159] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-26 12:30:55.690] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/albys/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.3

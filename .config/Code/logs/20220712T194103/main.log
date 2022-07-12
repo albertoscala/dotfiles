@@ -1,0 +1,8 @@
+[2022-07-12 19:41:03.949] [main] [info] window#load: attempt to load window (id: 1)
+[2022-07-12 19:41:03.961] [main] [info] update#setState idle
+[2022-07-12 19:41:04.021] [main] [info] ExtensionHostStarterWorker created
+[2022-07-12 19:41:05.080] [main] [info] window#load: window reported ready (id: 1)
+[2022-07-12 19:41:05.492] [main] [info] Starting extension host with pid 2126 (fork() took 45 ms).
+[2022-07-12 19:41:05.492] [main] [info] ExtensionHostStarterWorker.start() took 47 ms.
+[2022-07-12 19:41:13.735] [main] [info] Waiting for extension host with pid 2126 to exit.
+[2022-07-12 19:41:13.762] [main] [info] Extension host with pid 2126 exited with code: 0, signal: null.

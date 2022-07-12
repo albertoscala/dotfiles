@@ -1,0 +1,20 @@
+[2022-06-27 11:32:51.921] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/albys/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-06-27 11:32:52.019] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter-renderers /home/albys/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-06-27 11:32:52.091] [sharedprocess] [info] Starting worker process with pid 744 (type: fileWatcher, window: 1).
+[2022-06-27 11:32:52.236] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/albys/.vscode/extensions/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-06-27 11:32:52.260] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools /home/albys/.vscode/extensions/ms-vscode.cmake-tools-1.10.5
+[2022-06-27 11:32:52.443] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-06-27 11:32:52.474] [sharedprocess] [info] Worker process with pid 744 terminated normally (type: fileWatcher, window: 1).
+[2022-06-27 11:32:52.475] [sharedprocess] [info] Starting worker process with pid 767 (type: fileWatcher, window: 1).
+[2022-06-27 11:32:52.693] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/albys/.vscode/extensions/ms-python.vscode-pylance-2022.5.3
+[2022-06-27 11:32:52.729] [sharedprocess] [info] Deleted from disk ms-python.python /home/albys/.vscode/extensions/ms-python.python-2022.6.2
+[2022-06-27 11:32:52.922] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-06-27 11:32:52.929] [sharedprocess] [info] Worker process with pid 767 terminated normally (type: fileWatcher, window: 1).
+[2022-06-27 11:32:52.939] [sharedprocess] [info] Starting worker process with pid 830 (type: fileWatcher, window: 1).
+[2022-06-27 11:32:54.692] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-27 11:32:55.520] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-27 11:33:03.565] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/albys/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.30
+[2022-06-27 11:33:06.458] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.6540fb6a-6d1d-468c-adc5-ff47d3d0bb96: ms-python.vscode-pylance
+[2022-06-27 11:33:06.473] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-python.vscode-pylance-2022.6.30
+[2022-06-27 11:33:06.475] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-27 11:33:06.480] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

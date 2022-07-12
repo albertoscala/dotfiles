@@ -1,0 +1,33 @@
+[2022-05-22 20:10:10.549] [info]  search indexing: 0.1649098ms
+[2022-05-22 20:10:11.231] [info]  search indexing: 2.5894795ms
+[2022-05-22 20:12:39.923] [info]  search indexing: 2.5683104ms
+[2022-05-22 21:38:27.806] [info]  search indexing: 2.5476194ms
+[2022-05-23 14:32:00.346] [info]  search indexing: 2.4019633ms
+[2022-05-26 12:21:12.007] [info]  search indexing: 2.4485604ms
+[2022-05-28 23:21:19.488] [info]  search indexing: 2.5871043ms
+[2022-05-28 23:25:24.518] [info]  search indexing: 2.5859361ms
+[2022-05-28 23:56:37.464] [info]  search indexing: 3.6990793ms
+[2022-05-29 09:58:00.273] [info]  search indexing: 2.3713418ms
+[2022-05-29 10:33:33.200] [info]  search indexing: 2.4229972ms
+[2022-05-29 11:05:58.990] [info]  search indexing: 2.375965ms
+[2022-05-29 11:20:23.083] [info]  search indexing: 2.4376439ms
+[2022-06-19 19:14:03.254] [info]  search indexing: 1.7733864ms
+[2022-06-19 23:24:00.216] [info]  search indexing: 2.7613194ms
+[2022-06-23 11:01:09.076] [info]  search indexing: 2.5538766ms
+[2022-06-23 11:15:05.723] [info]  search indexing: 2.5776539ms
+[2022-06-27 12:38:57.521] [info]  search indexing: 2.873495ms
+[2022-07-02 10:41:49.703] [info]  search indexing: 2.6148295ms
+[2022-07-02 10:42:25.538] [info]  search indexing: 2.4549046ms
+[2022-07-06 10:41:23.366] [info]  search indexing: 2.8868844ms
+[2022-07-06 10:46:06.156] [error] Error: There was an error with the transport.
+    at WebSocket.o.onerror [as __zone_symbol__ON_PROPERTYerror] (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:963217)
+    at WebSocket.T (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1680656)
+    at e.invokeTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1675467)
+    at Object.onInvokeTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:633758)
+    at e.invokeTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1675388)
+    at t.runTask (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1670526)
+    at t.invokeTask [as invoke] (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1676623)
+    at v (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1690463)
+    at k (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1690744)
+    at WebSocket.w (file:///usr/lib/bitwarden/app.asar/app/vendor.js:2:1691024)
+[2022-07-08 11:48:59.434] [info]  search indexing: 2.6616381ms

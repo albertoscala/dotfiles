@@ -1,0 +1,14 @@
+[2022-05-26 12:31:08.110] [sharedprocess] [info] Starting worker process with pid 2400 (type: fileWatcher, window: 1).
+[2022-05-26 12:31:10.310] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-26 12:31:10.987] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-26 12:31:11.184] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/albys/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.3
+[2022-05-26 12:31:14.788] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.406f7204-271d-4297-ae69-e92081ced6ac: ms-python.vscode-pylance
+[2022-05-26 12:31:14.801] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/ms-python.vscode-pylance-2022.5.3
+[2022-05-26 12:31:14.804] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-26 12:31:14.809] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-05-26 12:31:20.033] [sharedprocess] [info] Worker process with pid 2400 terminated normally (type: fileWatcher, window: 1).
+[2022-05-26 12:31:21.028] [sharedprocess] [info] Starting worker process with pid 2596 (type: fileWatcher, window: 1).
+[2022-05-26 12:32:08.116] [sharedprocess] [info] Worker process with pid 2596 terminated normally (type: fileWatcher, window: 1).
+[2022-05-26 12:32:09.115] [sharedprocess] [info] Starting worker process with pid 2719 (type: fileWatcher, window: 1).
+[2022-05-26 12:41:10.395] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 2719 terminated by itself with code null, signal: SIGTRAP (type: fileWatcher, window: 1)
+[2022-05-26 12:41:10.460] [sharedprocess] [info] Starting worker process with pid 3558 (type: fileWatcher, window: 1).

@@ -1,0 +1,7 @@
+[2022-06-27 11:32:51.131] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-27 11:32:52.421] [renderer1] [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/albys)
+[2022-06-27 11:32:52.425] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+[2022-06-27 11:32:52.911] [renderer1] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/albys/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/lib/jedilsp/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3' failed: No such file or directory (EUNKNOWN) (path: /home/albys)
+[2022-06-27 11:32:52.912] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/albys/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/lib/jedilsp/jedi/third_party/typeshed/third_party/2and3/requests/packages/urllib3' failed: No such file or directory
+[2022-06-27 11:32:53.095] [renderer1] [error] [Extension Host] (node:685) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

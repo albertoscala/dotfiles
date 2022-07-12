@@ -1,0 +1,8 @@
+2022/07/12-19:20:00.566 23a Reusing MANIFEST /home/albys/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/12-19:20:00.567 23a Recovering log #10
+2022/07/12-19:20:00.569 23a Level-0 table #13: started
+2022/07/12-19:20:00.576 23a Level-0 table #13: 475336 bytes OK
+2022/07/12-19:20:00.579 23a Delete type=0 #10
+2022/07/12-19:22:01.763 238 Level-0 table #16: started
+2022/07/12-19:22:01.790 238 Level-0 table #16: 488791 bytes OK
+2022/07/12-19:22:01.793 238 Delete type=0 #14

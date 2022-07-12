@@ -1,0 +1,72 @@
+[2022-05-26 12:31:07.734] [exthost] [info] Extension host with pid 2342 started
+[2022-05-26 12:31:07.735] [exthost] [info] Skipping acquiring lock for /home/albys/.config/Code/User/workspaceStorage/fb827d1fa92957ba80b4e91c140ed7c1.
+[2022-05-26 12:31:07.864] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-26 12:31:07.923] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-05-26 12:31:07.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-26 12:31:07.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-26 12:31:07.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-26 12:31:07.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-26 12:31:08.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-26 12:31:08.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-26 12:31:08.168] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-05-26 12:31:08.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-26 12:31:08.657] [exthost] [info] Eager extensions activated
+[2022-05-26 12:31:08.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:31:08.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:31:20.023] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-26 12:31:20.054] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.L [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+	at s._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13902)
+	at Proxy.p.<computed>.M.charCodeAt.p.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10298)
+	at S.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:21082)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:59769)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+	at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-05-26 12:31:20.071] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.L [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+	at s._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13902)
+	at Proxy.p.<computed>.M.charCodeAt.p.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10298)
+	at S.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:21082)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:59769)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+	at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-05-26 12:31:20.911] [exthost] [info] Extension host with pid 2342 exiting with code 0
+[2022-05-26 12:31:21.757] [exthost] [info] Extension host with pid 2595 started
+[2022-05-26 12:31:21.757] [exthost] [info] Skipping acquiring lock for /home/albys/.config/Code/User/workspaceStorage/c39c9dc573208c036850b13fc83930cd.
+[2022-05-26 12:31:21.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-26 12:31:21.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-26 12:31:21.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-26 12:31:21.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-26 12:31:21.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-26 12:31:21.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-26 12:31:21.914] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-05-26 12:31:22.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-26 12:31:22.078] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'api', root cause: ms-vscode.makefile-tools
+[2022-05-26 12:31:22.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-26 12:31:22.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-26 12:31:22.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-26 12:31:22.514] [exthost] [info] Eager extensions activated
+[2022-05-26 12:31:22.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:31:22.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:32:08.106] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-26 12:32:08.139] [exthost] [info] Extension host with pid 2595 exiting with code 0
+[2022-05-26 12:32:09.746] [exthost] [info] Extension host with pid 2718 started
+[2022-05-26 12:32:09.746] [exthost] [info] Skipping acquiring lock for /home/albys/.config/Code/User/workspaceStorage/07790ddddeaca8f496346f45d1574ac1.
+[2022-05-26 12:32:09.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-26 12:32:09.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-26 12:32:09.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-26 12:32:09.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-26 12:32:09.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-26 12:32:09.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-26 12:32:09.942] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-05-26 12:32:10.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-26 12:32:10.107] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'api', root cause: ms-vscode.makefile-tools
+[2022-05-26 12:32:10.522] [exthost] [info] Eager extensions activated
+[2022-05-26 12:32:10.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:32:10.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-26 12:47:54.298] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-26 12:47:54.330] [exthost] [info] Extension host with pid 2718 exiting with code 0

@@ -1,0 +1,8 @@
+[2022-05-25 21:18:51.164] [sharedprocess] [info] Starting worker process with pid 4216 (type: fileWatcher, window: 1).
+[2022-05-25 21:18:53.752] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-05-25 21:18:54.073] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-05-25 21:18:55.478] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/albys/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-05-25 21:18:55.530] [sharedprocess] [info] Extracted extension to /home/albys/.vscode/extensions/.c34b4ddb-0a62-4eb1-9c39-4033c78b6a86: jeff-hykin.better-cpp-syntax
+[2022-05-25 21:18:55.535] [sharedprocess] [info] Renamed to /home/albys/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-05-25 21:18:55.537] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-05-25 21:18:55.543] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax

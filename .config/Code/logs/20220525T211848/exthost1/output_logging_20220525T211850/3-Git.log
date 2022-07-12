@@ -1,0 +1,28 @@
+[2022-05-25T19:18:51.265Z] Validating found git in: git
+[2022-05-25T19:18:51.309Z] Using git 2.36.1 from git
+[2022-05-25T19:18:51.390Z] > git rev-parse --show-toplevel [72ms]
+[2022-05-25T19:18:51.429Z] > git rev-parse --git-dir --git-common-dir [29ms]
+[2022-05-25T19:18:51.436Z] Open repository: /home/albys/Sistemi Operativi 2/Homework-Sistemi-Operativi-2
+[2022-05-25T19:18:51.458Z] > git status -z -uall [13ms]
+[2022-05-25T19:18:51.483Z] > git symbolic-ref --short HEAD [18ms]
+[2022-05-25T19:18:51.514Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+[2022-05-25T19:18:51.534Z] > git remote --verbose [8ms]
+[2022-05-25T19:18:51.535Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-05-25T19:18:51.559Z] > git config --get commit.template [8ms]
+[2022-05-25T19:18:51.821Z] > git show --textconv :homework2/server.c [8ms]
+[2022-05-25T19:18:51.821Z] > git ls-files --stage -- /home/albys/Sistemi Operativi 2/Homework-Sistemi-Operativi-2/homework2/server.c [1ms]
+[2022-05-25T19:18:51.830Z] > git cat-file -s cd502b544c12680ef4a828abc296e57d9e768632 [2ms]
+[2022-05-25T19:18:52.041Z] > git check-ignore -v -z --stdin [2ms]
+[2022-05-25T19:18:52.643Z] > git status -z -uall [2ms]
+[2022-05-25T19:18:52.654Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-25T19:18:52.662Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-05-25T19:18:52.677Z] > git remote --verbose [5ms]
+[2022-05-25T19:18:52.677Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-05-25T19:18:52.690Z] > git config --get commit.template [2ms]
+[2022-05-25T19:18:53.591Z] > git show --textconv :homework2/log [6ms]
+[2022-05-25T19:18:53.592Z] > git ls-files --stage -- /home/albys/Sistemi Operativi 2/Homework-Sistemi-Operativi-2/homework2/log [1ms]
+[2022-05-25T19:18:53.600Z] > git cat-file -s cb03d8208ff1c09272d451d2c1117282dd5629ae [2ms]
+[2022-05-25T19:18:55.429Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-25T19:19:01.842Z] > git rev-parse --show-toplevel [4ms]
+[2022-05-25T19:19:01.842Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

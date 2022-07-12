@@ -1,0 +1,8 @@
+[2022-05-26 12:30:46.303] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-26 12:30:46.315] [main] [info] update#setState idle
+[2022-05-26 12:30:46.357] [main] [info] ExtensionHostStarterWorker created
+[2022-05-26 12:30:47.518] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-26 12:30:47.877] [main] [info] Starting extension host with pid 1940 (fork() took 11 ms).
+[2022-05-26 12:30:47.877] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2022-05-26 12:30:58.714] [main] [info] Waiting for extension host with pid 1940 to exit.
+[2022-05-26 12:30:59.419] [main] [info] Extension host with pid 1940 exited with code: 0, signal: null.

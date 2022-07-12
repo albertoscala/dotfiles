@@ -1,0 +1,53 @@
+[2022-07-12T17:41:06.430Z] Validating found git in: git
+[2022-07-12T17:41:06.471Z] Using git 2.37.0 from git
+[2022-07-12T17:41:06.516Z] > git rev-parse --show-toplevel [33ms]
+[2022-07-12T17:41:06.516Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.549Z] > git rev-parse --show-toplevel [22ms]
+[2022-07-12T17:41:06.549Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.580Z] > git rev-parse --show-toplevel [25ms]
+[2022-07-12T17:41:06.580Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.594Z] > git rev-parse --show-toplevel [5ms]
+[2022-07-12T17:41:06.594Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.604Z] > git rev-parse --show-toplevel [3ms]
+[2022-07-12T17:41:06.604Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.620Z] > git rev-parse --show-toplevel [9ms]
+[2022-07-12T17:41:06.620Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.627Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-12T17:41:06.627Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.639Z] > git rev-parse --show-toplevel [3ms]
+[2022-07-12T17:41:06.639Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.646Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-12T17:41:06.646Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.658Z] > git rev-parse --show-toplevel [4ms]
+[2022-07-12T17:41:06.658Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.664Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-12T17:41:06.664Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.672Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-12T17:41:06.672Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.689Z] > git rev-parse --show-toplevel [9ms]
+[2022-07-12T17:41:06.689Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.699Z] > git rev-parse --show-toplevel [4ms]
+[2022-07-12T17:41:06.699Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.707Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-12T17:41:06.707Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.714Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-12T17:41:06.714Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-07-12T17:41:06.748Z] > git rev-parse --show-toplevel [3ms]
+[2022-07-12T17:41:06.748Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

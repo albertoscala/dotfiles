@@ -1,0 +1,15 @@
+[2022-07-12 19:41:06.133] [exthost] [info] Extension host with pid 2126 started
+[2022-07-12 19:41:06.133] [exthost] [info] Skipping acquiring lock for /home/albys/.config/Code/User/workspaceStorage/07790ddddeaca8f496346f45d1574ac1.
+[2022-07-12 19:41:06.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-12 19:41:06.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-12 19:41:06.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-12 19:41:06.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-12 19:41:06.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-12 19:41:06.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-12 19:41:06.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-12 19:41:06.484] [exthost] [info] Eager extensions activated
+[2022-07-12 19:41:06.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-12 19:41:06.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 19:41:06.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 19:41:13.723] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-12 19:41:13.742] [exthost] [info] Extension host with pid 2126 exiting with code 0
